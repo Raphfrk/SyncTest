@@ -1,0 +1,3 @@
+name: Sync Test
+main: com.raphfrk.bukkit.synctest.SyncTest
+version: 1
